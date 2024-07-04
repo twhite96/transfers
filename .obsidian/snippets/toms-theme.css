@@ -1,0 +1,14 @@
+/* @settings
+
+name: Tom's Theme
+id: a-unique-id
+settings:
+  -
+    id: background-color
+    title: Background color
+    type: variable-themed-color
+    opacity: true
+    format: hex
+    default-light: '#ffffff'
+    default-dark: '#2F3036'
+*/

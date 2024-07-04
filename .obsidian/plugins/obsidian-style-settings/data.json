@@ -1,0 +1,19 @@
+{
+  "CG@@CG-workspace-background-blur": 2,
+  "CG@@CG-workspace-background-saturation": 0.95,
+  "CG@@CG-workspace-background-image-custom-option": "url(\"\")",
+  "CG@@CG-workspace-background-brightness": 3,
+  "CG@@CG-workspace-background-workspace-slider": 0.45,
+  "CG@@CG-workspace-background": false,
+  "CG@@CG-workspace-background-contrast": 148,
+  "CG@@custom-accent": "#00BB23",
+  "CG@@inactivetab-color": "#00BD23",
+  "CG@@activetab-color": "#00BD23",
+  "CG@@active-title": "#00BD23",
+  "CG@@bulletlist-color": "#00BD23",
+  "CG@@h1-glow": "#00BD23",
+  "CG@@h2-glow": "#04E000",
+  "CG@@h3-glow": "#07A307",
+  "CG@@block-color": "#297F24",
+  "a-unique-id@@background-color@@dark": "#2F3036"
+}

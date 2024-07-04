@@ -1,0 +1,16 @@
+{
+  "accentColor": "#14d013",
+  "showViewHeader": true,
+  "cssTheme": "Tom's Theme",
+  "baseFontSize": 22,
+  "translucency": true,
+  "nativeMenus": true,
+  "theme": "obsidian",
+  "baseFontSizeAction": false,
+  "interfaceFontFamily": "Fira Code",
+  "monospaceFontFamily": "Operator Mono",
+  "textFontFamily": "FiraMono Nerd Font",
+  "enabledCssSnippets": [
+    "toms-theme"
+  ]
+}
